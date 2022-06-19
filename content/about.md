@@ -1,23 +1,18 @@
 ---
 aliases:
-- about-us
+- about-me
 - about-hugo
 - contact
 author:
   name: Hugo Authors
 date: "2014-04-09"
-title: About
+title: About Na
 ---
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
+Na Liu is a PhD scientist in Molecular biology, focused on immunology and treatment for life-threatening infections, especially on sepsis. I could like to develop advanced experimental and bioinformatics skills for exploring science, share experience and communicate for more ideas. :D
 
-It makes use of a variety of open source projects including:
+Continuing to get more steps! 
 
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Open for communications, please contact nanaliu0206@icloud.com
 
