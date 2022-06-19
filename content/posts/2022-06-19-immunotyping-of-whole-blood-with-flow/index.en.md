@@ -1,17 +1,16 @@
 ---
-title: Immunotyping of whole blood with flow
-author: nanaliu
+title: "Immunotyping of whole blood with flow"
+author: "nanaliu"
 date: '2022-06-19'
 slug: []
-categories:
-  - Flow
+categories: Flow
 tags:
-  - Flow
-  - Immunophenotype
-  - Whole blood
+- Flow
+- Immunophenotype
+- Whole blood
 draft: yes
-description: ~
-featured_image: ~
+description: null
+featured_image: null
 ---
 # Abstract
 
